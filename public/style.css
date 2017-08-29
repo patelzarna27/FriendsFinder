@@ -1,0 +1,27 @@
+body{
+    
+    background-image: url(http://www.liumeibang.net/wp-content/uploads/2016/12/bigstock-136868705-350x250.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.jumbotron {
+    background-color: firebrick;
+    color: white;
+    opacity: .75;
+    margin-top: 20px;
+};
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.jumbotron {
+    background-color: firebrick;
+    color: white;
+    opacity: .75;
+    margin-top: 20px;
+}
