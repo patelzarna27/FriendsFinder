@@ -12,5 +12,13 @@
     "express": "^4.15.4"
   },
   "devDependencies": {},
-  "description": ""
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patelzarna27/FriendsFinder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/patelzarna27/FriendsFinder/issues"
+  },
+  "homepage": "https://github.com/patelzarna27/FriendsFinder#readme"
 }
